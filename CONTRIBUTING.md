@@ -11,3 +11,4 @@ Notes and usage details for curves.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- link the usage section
