@@ -21,3 +21,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// clarify the control flow
