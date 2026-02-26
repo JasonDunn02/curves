@@ -36,3 +36,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // guard against empty input
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
