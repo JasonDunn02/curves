@@ -37,3 +37,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // avoid re-reading the config on every call
 // guard against empty input
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
