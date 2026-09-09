@@ -48,3 +48,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // handle the edge case from the last release
 // drop an unused branch
 // handle the edge case from the last release
+// guard against empty input
